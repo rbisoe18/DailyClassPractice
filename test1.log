@@ -1,0 +1,8 @@
+INFO:root:10
+WARNING:root:200
+CRITICAL:root:2.0
+INFO:root:This is info
+INFO:root:10
+INFO:root:10
+WARNING:root:200
+CRITICAL:root:2.0
